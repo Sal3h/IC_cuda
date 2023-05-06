@@ -1,6 +1,16 @@
-Discrete Logarithms via the Index Calculus Method
--------------------------------------------------
 
+
+Discrete Logarithms via the Index Calculus Method
+Porting on CUDA
+-------------------------------------------------
+The original project is forked from :
+
+
+https://github.com/onechip/dlog
+
+
+TODO: apply CUMP to replace NTL used for large number calculus.
+-------------------------------------------------
 
 Included in this package is an implementation of the index calculus method
 for solving discrete logarithms in the multiplicative group of GF(p), for
